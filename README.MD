@@ -1,3 +1,5 @@
+This fork enables compiling on a unix-based system, whereas the original project only compiles on windows.
+
 Eer File Format
 ===============
 
